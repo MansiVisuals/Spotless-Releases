@@ -11,3 +11,7 @@ Builds of Spotless, a native macOS 27 cleaner, disk explorer and system monitor.
    ```
 
 From version 0.1.1 on, Spotless checks this page once a day and updates itself (Spotless ▸ Check for Updates…). It installs a new version only when it's signed with the same certificate as the copy you have.
+
+## License
+
+Spotless is proprietary software. By downloading, installing or using it, you agree to the [License Agreement and Terms of Use](LICENSE). It's licensed for personal, non-commercial use on your own Macs only. Redistributing, modifying, re-signing or reverse engineering it is not permitted; share a link to this page instead.

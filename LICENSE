@@ -1,0 +1,134 @@
+Spotless License Agreement and Terms of Use
+
+Copyright © 2026 Mansi Visuals. All rights reserved.
+
+These terms ("Terms") are an agreement between you and Mansi Visuals ("we", "us", "our") about Spotless, including
+the app, its privileged helper, its updates, release builds, source code and any accompanying files or documentation
+(together, the "Software"). By downloading, installing, copying or using the Software, you agree to these Terms. If you
+do not agree, do not download, install or use the Software, and delete any copies you have.
+
+
+1. Ownership
+
+The Software is licensed, not sold. Mansi Visuals owns all rights, title and interest in the Software, including all
+copyrights, trade secrets and other intellectual property rights in its code, design, icon and artwork. All rights
+not expressly granted in these Terms are reserved. No licence is granted to the source code.
+
+
+2. Licence
+
+Subject to your continued compliance with these Terms, we grant you a personal, limited, non-exclusive,
+non-transferable, non-sublicensable and revocable licence to download an official release build of the Software from
+its official release page (https://github.com/MansiVisuals/Spotless-Releases), and to install and use it, in
+object-code form only, on Macs you own or control, for your own personal, non-commercial purposes.
+
+
+3. Restrictions
+
+Except as expressly permitted in section 2, you may not, and may not allow, help or encourage anyone else to:
+
+  a. copy the Software, other than installing it as described in section 2 and ordinary backups of your Mac;
+
+  b. distribute, publish, share, upload, mirror, host, sell, resell, rent, lease, lend, sublicense or otherwise make the
+     Software available to anyone else, including through websites, download sites, package managers, catalogs or app
+     stores (point others to the official release page instead);
+
+  c. reverse engineer, decompile, disassemble, decrypt or otherwise attempt to derive the source code, algorithms,
+     structure or internal workings of the Software, including by tracing, hooking, injecting code into or
+     instrumenting it while it runs, except to the extent applicable law expressly permits this despite this
+     restriction;
+
+  d. modify, adapt, translate, patch or create derivative works of the Software, or incorporate any part of it into
+     other software;
+
+  e. remove, replace or alter the Software's code signature, re-sign it, or tamper with, bypass or disable its
+     signature checks, update checks, safety checks or any other security feature;
+
+  f. use the Software, or any part or output of it, to build, train, benchmark or improve a competing product or
+     service, or any machine-learning or artificial-intelligence model;
+
+  g. use the Software for any commercial purpose, to provide services to others (such as paid cleaning, maintenance,
+     support or IT services), or on any Mac you do not own or control without its owner's permission;
+
+  h. remove, obscure or alter any copyright or other notice in or on the Software;
+
+  i. use the Software in violation of any law, or to access, remove or change data you are not authorised to.
+
+Any use of the Software not expressly permitted by these Terms is a breach of these Terms and may infringe our
+intellectual property rights.
+
+
+4. Your data and your responsibility
+
+The Software removes, moves and changes files, app data, browser data, startup items, system settings and apps, and
+installs updates of other apps, in some cases with administrator privileges through its privileged helper. You are
+solely responsible for reviewing what the Software proposes before you confirm it, and for keeping current backups of
+anything you care about (for example with Time Machine). Items moved to the Trash are deleted permanently when the
+Trash is emptied. We are not responsible for any data that is lost, removed or changed.
+
+
+5. Network access and privacy
+
+The Software runs on your Mac. It does not send your files, usage or personal information to us and contains no
+analytics or tracking. To provide its features, it contacts third-party services directly from your Mac: Apple (App
+Store version lookups), the update feeds and download servers of the developers of apps you have installed, Homebrew's
+public catalog of Mac apps, and GitHub (to check for and download Spotless updates). These services receive what any
+internet request carries, such as your IP address, and their own terms and privacy policies apply.
+
+
+6. Updates
+
+The Software checks GitHub for new versions of itself and, when you choose to install one, replaces itself with it.
+You can turn off the automatic check in Settings. Updates are covered by these Terms unless they come with their own.
+We may change, suspend or stop providing the Software or its updates at any time, without notice.
+
+
+7. Third-party software and services
+
+The Software can update, remove or change apps and data from other developers. Those apps, their updates and the
+services the Software contacts belong to their respective owners and are subject to their own terms. We are not
+responsible for them, their availability, their content or their downloads.
+
+
+8. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM
+EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY WARRANTIES
+OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT AND
+NON-INFRINGEMENT, AND ANY WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE OR UNINTERRUPTED, OR THAT IT WILL NOT
+HARM YOUR MAC OR YOUR DATA.
+
+
+9. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+EXEMPLARY OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, FILES, PROFITS, REVENUE, BUSINESS OR GOODWILL, OR FOR ANY
+DAMAGE TO OR FAILURE OF ANY COMPUTER OR SOFTWARE, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THESE TERMS, HOWEVER
+CAUSED AND UNDER ANY THEORY OF LIABILITY, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL
+LIABILITY FOR ALL CLAIMS RELATED TO THE SOFTWARE WILL NOT EXCEED THE AMOUNT YOU PAID FOR IT.
+
+Nothing in these Terms limits any liability that cannot be limited by law, or any rights you have as a consumer that
+cannot be waived by agreement.
+
+
+10. Termination
+
+These Terms apply until terminated. Your licence ends automatically, without notice, if you breach any of them, and we
+may end it at any time for any reason. When your licence ends, you must stop using the Software and delete all copies.
+Sections 1, 3, 4, 7, 8, 9, 10 and 12 survive termination.
+
+
+11. Changes to these Terms
+
+We may change these Terms. The version published with the Software or on its official release page applies.
+Continuing to use the Software after a change means you accept the changed Terms.
+
+
+12. General
+
+If any part of these Terms is found unenforceable, it will be enforced to the maximum extent permissible and the rest
+of these Terms remains in effect. Our failure to enforce any part of these Terms is not a waiver. You may not assign
+or transfer these Terms or your licence; we may. These Terms are the entire agreement between you and us about the
+Software. We may seek injunctive or other relief in any competent court to protect our intellectual property rights.
+
+Contact: https://github.com/MansiVisuals
